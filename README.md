@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My World 👋</h1>
 
 <p align="center">
- I'm Amir Reza Fazeli, also known as <strong>Dry-stan Nex</strong> — a passionate and versatile software engineer from Iran 🇮🇷, dedicated to mastering the full spectrum of technology—from frontend interfaces to backend infrastructures, operating systems, networks, and beyond.
+I'm Amir Reza Fazeli, also known as Dry-stan Nex, a passionate and versatile software engineer from Iran 🇮🇷. I’m dedicated to mastering the full spectrum of technology, from frontend interfaces to backend infrastructures, operating systems, networks, and everything in between.
 </p>
 </p>
 
